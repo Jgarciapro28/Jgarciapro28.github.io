@@ -1,0 +1,32 @@
+h1 {
+	color: green;
+	text-align: center;
+}
+
+body {
+	background-color: lightblue;
+	text-align: center;
+}
+
+p {
+	color: red;
+	text-align: left;
+}
+
+#slogan {
+	font-weight: bold; 
+	font-family: serif;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-style: solid;
+	
+	
+}
+
+ul {
+	color: orange;
+	font-style: italic;
+	text-align: left;
+}

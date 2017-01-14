@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-	background-image: url(file:///Users/Garcia/Desktop/Jgarciapro28.github.io/unit_4/images/officebackground.jpg)
+	background-image: url('../images/officebackground.jpg');
 }
 
 p {
@@ -33,7 +33,7 @@ p {
 ul {
 	color: black;
 	font-style: italic;
-	text-align: center;
+	text-align: left;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 28px;
 }

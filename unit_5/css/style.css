@@ -1,0 +1,39 @@
+h1 {
+	color: black;
+	font-size: 52px;
+	text-align: center;
+	font-family: 'Bungee Inline', cursive;
+
+}
+
+body {
+	background-image: url('../images/hoodserieslogo.png');
+}
+
+p {
+	color: orange;
+	text-align: center;
+	font-size: 32px;
+	font-family:  'Raleway', sans-serif;
+}
+
+#slogan {
+	font-weight: bold; 
+	font-family: 'Ewert', cursive;
+	font-size: 48px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
+	
+}
+
+ul {
+	color: black;
+	font-style: italic;
+	text-align: left;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 28px;
+}

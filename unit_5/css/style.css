@@ -9,8 +9,8 @@ h1 {
 body {
 	background-image: url('../images/hoodserielogo.jpg');
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center, bottom	
+	background-attachment: scroll;
+	background-position: center;
 }
 
 p {

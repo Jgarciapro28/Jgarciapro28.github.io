@@ -7,11 +7,12 @@ h1 {
 }
 
 body {
-	background-image: url('https://github.com/Jgarciapro28/Jgarciapro28.github.io/blob/master/unit_5/images/allwhiteoffice.jpg');
+	background-image: url('..//images.allwhiteoffice.jpg');
 }
 
 p {
-	color: orange;
+	color: black;
+	background-color: gray
 	text-align: center;
 	font-size: 32px;
 	font-family:  'Raleway', sans-serif;
@@ -27,13 +28,8 @@ p {
 	border-style: solid;
 	border-color: white;
 	border-width: 5px;
+	background-color: 
 	
 }
 
-ul {
-	color: black;
-	font-style: italic;
-	text-align: left;
-	font-family: 'Alegreya Sans SC', sans-serif;
-	font-size: 28px;
-}
+

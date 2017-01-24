@@ -10,12 +10,19 @@ body {
 	background-image: url('..//images.allwhiteoffice.jpg');
 }
 
+div{
+	background: #c0dec5;
+	margin: 4em;
+	padding: 2em 3dm 0 3em;
+}
+
 p {
 	color: black;
 	background-color: gray
 	text-align: center;
 	font-size: 32px;
 	font-family:  'Raleway', sans-serif;
+	line-height: 1.4em
 }
 
 #slogan {
@@ -28,7 +35,7 @@ p {
 	border-style: solid;
 	border-color: white;
 	border-width: 5px;
-	background-color: 
+	
 	
 }
 
